@@ -1,10 +1,10 @@
 
-#HTML5 Boot Camp
+# HTML5 Boot Camp
 
-##The future of Web Applications is here!
-###Are you ready for it?
+## The future of Web Applications is here!
+### Are you ready for it?
 
-####Index
+#### Index
 
 1. [Objective](#objective)
 
@@ -43,19 +43,19 @@
 
 12. [Your First Project Starts Now!](#bookmark=id.605681dc8138)
 
-###Objective
+### Objective
 
 This course teaches the basics of modern Web UI development. We want to help you create the best of breed user experiences, gaming, and mobile applications.
 
 → [index](#index)
 
-###Who Should Attend
+### Who Should Attend
 
 The training will start at a low level, and does not require in depth knowledge of the platform in question. Desirable participant profile: trainees and outside Globant candidates. A basic knowledge on HTML, CSS, and JavaScript is desired, though.
 
 → [index](#index)
 
-###Duration
+### Duration
 
 Five weeks total.
 
@@ -63,11 +63,11 @@ Three weeks for guided learning and two weeks for app development.
 
 → [index](#index)
 
-###Technical Assistance
+### Technical Assistance
 
 You can contact other bootcamp participants or any available tutor if you need technical assistance. We will create one chat for boot camp members only, and another one for boot camp members and tutors when boot camp starts.
 
-###Performance Measurement
+### Performance Measurement
 
 1. Code review after each practice and sprint
 
@@ -76,13 +76,13 @@ You can contact other bootcamp participants or any available tutor if you need t
 → [index](#index)
 
 
-###Handling Advanced Developers
+### Handling Advanced Developers
 
 Developers that move faster than average can go ahead and complete as much exercises as wanted.
 
 → [index](#index)
 
-###Tools
+### Tools
 
 1. At least, three different browsers installed on the developer machine. Example, Chrome, Firefox, and the Android browser using Android's emulator.
 
@@ -104,7 +104,7 @@ Developers that move faster than average can go ahead and complete as much exerc
 
 
 
-###General Guidelines
+### General Guidelines
 
 The boot camp is organized in the following way:
 
@@ -138,24 +138,24 @@ Here you will reach just your boot camp fellows for asking question sharing know
 
 → [index](#index)
 
-###Proposed Test Applications
+### Proposed Test Applications
 
 The test application will consist in a Last.fm client.
 
-###Learning Days###
+### Learning Days ###
 
 Each day you will grab the fundamentals of the key building blocks for the next generation mobile apps; yeah, web apps! Web apps powered by the latest, and coolest toolkits, and techniques.
 
 On each learning day you will have to:
 
-1. ####Read:####
+1. #### Read: ####
 We will provide you with documentation related with current sprint content so you can have a background reference, guide and examples to complete the following practice.
 
-2. ####Practice:####
+2. #### Practice: ####
 You will implement the previously gathered knowledge in simple coding activities.
 Most important task numbers are listed in the "*Key Points*" section for each day and they should get most of your attention; if you feel you don’t have enough time to complete all tasks, start with these ones when possible.
 
-3. ####Commit:####
+3. #### Commit: ####
 You will commit all your code on a daily basis, when you finish your practice.
 
 ### Introduction
@@ -172,11 +172,11 @@ JavaScript is a programming language that runs in all Web Browsers. Using JavaSc
 
 Now that you know which are the three pilars of a web application's UI, it's time to dive into them.
 
-####[Topic 0: HTML & CSS Basics](https://github.com/globant-ui/css-lab)
+#### [Topic 0: HTML & CSS Basics](https://github.com/marcelososa/css-lab)
 
-####Topic 1: JavaScript, and DOM APIs####
+#### Topic 1: JavaScript, and DOM APIs ####
 
-#####Reading:#####
+##### Reading: #####
 
 1. Beginner: Eloquent JavaScript 2nd Edition [basic tutorial](http://eloquentjavascript.net/) (in case you need it!)
 
@@ -184,7 +184,7 @@ Now that you know which are the three pilars of a web application's UI, it's tim
 
 3. Recommended: [devdocs.io](http://devdocs.io/) to check Web platform documentation around JavaScript, frameworks, Browser APIs, etc
 
-#####Extra documentation:#####
+##### Extra documentation: #####
 
 * Web Platform Documentation Project: [http://www.webplatform.org/](http://www.webplatform.org/)
 
@@ -198,7 +198,7 @@ Now that you know which are the three pilars of a web application's UI, it's tim
 
 * Using Chrome console to debug JavaScript [https://developer.chrome.com/devtools/docs/console](https://developer.chrome.com/devtools/docs/console)
 
-#####Practice:#####
+##### Practice: #####
 
 **Use latest IE, Chrome, or Firefox browser to develop. Try to use as much ECMAScript 6 syntax as you can. Favor ```let``` and ```const``` over ```var```**
 
@@ -226,40 +226,40 @@ Now that you know which are the three pilars of a web application's UI, it's tim
 
 12. Write a function that takes as input a matrix of data and outputs a DOM structure representing a table. Attach it to the body of a given page. *Hint: use ```document.createElement```, ```document.createTextNode```, and ```Node.appendChild``` methods*
 
-#####Key Points:#####
+##### Key Points: #####
 
 4, 7, 10, 12
 
-#####Mobile Test:#####
+##### Mobile Test: #####
 
 Test your code in a mobile device or in Android emulator.
 
 Hint: A good option to test your code in a mobile device is to use Genimotion Android Emulator [http://www.genymotion.com/], which is one of the most fast and easy mobile emulators to install.
 
-#####Commit:#####
+##### Commit: #####
 
 Commit your practice code.
 
 → [index](#index)
 
-####Topic 2: Design Patterns and OOP in JavaScript####
+#### Topic 2: Design Patterns and OOP in JavaScript ####
 In this Topic we will focus on learning how JavaScript approaches Object-Oriented programming. If you come from Java, or .NET you will find yourself a little bit lost at the beggining. ECMAScript6 provides a layer of syntactic sugar over the previous version(5.1) that is expected to simplify the language.
 
-#####Reading:#####
+##### Reading: #####
 
 1. Understand how *prototypes* works in ECMAScript 5.1 [http://yehudakatz.com/2011/08/12/understanding-prototypes-in-javascript/](http://yehudakatz.com/2011/08/12/understanding-prototypes-in-javascript/)
 
 2. ECMAScript 6 New Features: [http://es6-features.org/](http://es6-features.org/). You can compare ECMAScript 5 and 6 code.
 
-3. Read the Chapter on JavaScript classes from [*Understanding ECMAScript6*](https://leanpub.com/understandinges6/read#leanpub-auto-classes) 
+3. Read the Chapter on JavaScript classes from [*Understanding ECMAScript6*](https://leanpub.com/understandinges6/read#leanpub-auto-classes)
 
 4. Read about [ES6 Modules](https://ponyfoo.com/articles/es6-modules-in-depth)  
 
-5. Extra: Read about AMD, CommonJS, and ES6 Modules [Writing Modular JavaScript](http://addyosmani.com/blog/writing-modular-javascript/) 
+5. Extra: Read about AMD, CommonJS, and ES6 Modules [Writing Modular JavaScript](http://addyosmani.com/blog/writing-modular-javascript/)
 
-6. An overview on all the features ECMAScript provides [https://github.com/lukehoban/es6features](https://github.com/lukehoban/es6features) 
+6. An overview on all the features ECMAScript provides [https://github.com/lukehoban/es6features](https://github.com/lukehoban/es6features)
 
-#####Practice:#####
+##### Practice: #####
 
 1. Create a Movie object:
 
@@ -274,6 +274,7 @@ In this Topic we will focus on learning how JavaScript approaches Object-Oriente
             <td>+ play() <br />+ pause()<br />+ resume()<br /></td>
         </tr>
     </table>
+
 
 2. Instantiate some of your favorite movies and play with them in the console.
 
@@ -314,19 +315,19 @@ In this Topic we will focus on learning how JavaScript approaches Object-Oriente
    ```
 9. Using ES6 Modules split all your classes declarations into diferent files. Use Babel to create a single bundle. *Hint: check this [tutorial](https://babeljs.io/docs/usage/cli/)*
 
-#####Key Points:#####
+##### Key Points: #####
 
 5, 6, 8, 9
 
-#####Commit:#####
+##### Commit: #####
 
 Commit your practice code.
 
 → [index](#index)
 
-####Topic 3: MVC - AngularJS####
+#### Topic 3: MVC - AngularJS ####
 
-#####Reading:#####
+##### Reading: #####
 
 1. [Ultimate guide to learn Angular.js in one day](http://toddmotto.com/ultimate-guide-to-learning-angular-js-in-one-day/).
 
@@ -338,7 +339,7 @@ Commit your practice code.
 
 5. Learn how to create unit tests for your angular.js applications [https://docs.angularjs.org/guide/unit-testing](https://docs.angularjs.org/guide/unit-testing)
 
-#####Practice:#####
+##### Practice: #####
 
 1. Create a movie listing with your favorite movies. Data shall be persisted in localhost.
 
@@ -351,31 +352,31 @@ Commit your practice code.
 Tips:
 * Learn how to use [components](https://docs.angularjs.org/guide/component) to structure your application
 
-#####Key Points:#####
+##### Key Points: #####
 
 1, 2, 3
 
-#####Mobile Test:#####
+##### Mobile Test: #####
 
 Test your code in a mobile device or in Android emulator.
 
-#####Commit:#####
+##### Commit: #####
 
 Commit your practice code.
 
 → [index](#index)
 
-####Topic 4: HTML5 APIs####
+#### Topic 4: HTML5 APIs ####
 
-#####Reading:#####
+##### Reading: #####
 
 1. Take a glimpse into HTML5 APIs: [http://www.html5rocks.com/en/](http://www.html5rocks.com/en/)
 
 2. Now, take a deep dive into HTML5: [http://diveintohtml5.info/](http://diveintohtml5.info/) (optional)
 
-3. Understand the capabilities the Web has to offer right now [https://whatwebcando.today/](https://whatwebcando.today/) 
+3. Understand the capabilities the Web has to offer right now [https://whatwebcando.today/](https://whatwebcando.today/)
 
-#####Practice:#####
+##### Practice: #####
 
 1. Create a page with a textarea and a save button. Save textarea content's when the user clicks on save. Use both localStorage and IndexedDB.
 
@@ -391,19 +392,19 @@ Commit your practice code.
 
 7. Create a web page with a SVG element to show a vector graphic. Make sure you understand when is better to use SVG instead of bitmaps, and viceversa.
 
-#####Key Points:#####
+##### Key Points: #####
 
 1, 3, 4, 7
 
-#####Commit:#####
+##### Commit: #####
 
 Commit your practice code.
 
 → [index](#index)
 
-####Topic 5 (Optional): UI - ReactJS####
+#### Topic 5 (Optional): UI - ReactJS ####
 
-#####Reading:#####
+##### Reading: #####
 
 1. [What is ReactJS?](http://facebook.github.io/react/). [Here](http://www.instrument.com/latest/an-introduction-to-react-js) is an introduction to it.
 
@@ -418,14 +419,14 @@ Commit your practice code.
 6. Try on using [Reactify](https://github.com/andreypopp/reactify) [ReactJS + Browserify workflow](https://www.codementor.io/reactjs/tutorial/react-js-browserify-workflow-part-1).
 
 
-#####Extra reading:#####
+##### Extra reading: #####
 
 * [Full guide on ReactJS](https://scotch.io/tutorials/learning-react-getting-started-and-concepts).
 
 * [Read some ReactJS tips](https://facebook.github.io/react/tips/introduction.html).
 
 
-#####Practice:#####
+##### Practice: #####
 
 1. Create the needed components to allow the user create a new Movie.
 
@@ -444,23 +445,23 @@ Commit your practice code.
 - To update the application with ReactRouter and Flux you may split out the add logic and the display logic into two views.
   Also you may provide the data storage (object) responsibility to Flux's storages.
 
-#####Key Points:#####
+##### Key Points: #####
 
 1, 2, 4.
 
-#####Mobile Test:#####
+##### Mobile Test: #####
 
 Test your code in a mobile device or in Android emulator.
 
-#####Commit:#####
+##### Commit: #####
 
 Commit your practice code.
 
 → [index](#index)
 
-###Your First Project Starts Now!###
+### Your First Project Starts Now! ###
 
-####It’s time for the real thing.####
+#### It’s time for the real thing. ####
 
 You will work on a project to achieve a fully working multi platform mobile app developed in JavaScript and using the latest tags and APIs available in HTML5.
 
@@ -473,11 +474,11 @@ Once estimated, user stories will be divided into sprints of one week.
 You will participate on daily scrum meetings.
 Will you be able to consult documentation? Of course! You will be able to use any resource you know that helps you complete your user stories, be it going back to documentation sites, tutorials or just googling what you need. Luckily the web is plenty of awesome resources waiting for you to grasp them!
 
-####Commits####
+#### Commits ####
 
 You will commit your code to GitHub on a daily basis.
 
-####Reviews####
+#### Reviews ####
 
 Tutors will give you feedback at the end of each sprint by reviewing and commenting your committed code in GitHub. If possible tutors will give you even more frequent feedback, sometimes at the end of the day.
 
