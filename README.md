@@ -24,24 +24,32 @@
 
 9. [Proposed Test Applications](#proposed-test-applications)
 
-10. [Environment Setup]
+10. [Environment Setup](#environment-setup)
 
 11. [Learning Days](#learning-days)
 
     * [Topic 0: HTML & CSS Basics](#topic-0-html--css-basics)
+	    * [CSS Style Guide](https://github.com/marcelososa/css-style-guide)
+	    * CSS Pre-processors: [Saas](http://sass-lang.com/), [Less](http://lesscss.org/), [Stylus](http://stylus-lang.com/)
 
-    * [Topic 1: JavaScript, and DOM APIs](#topic-1-javascript-intro-and-jquery)
+    * [Topic 1: JavaScript, and DOM APIs](#topic-1-javascript-and-dom-apis)
+	    * [Javascript Style Guide](https://github.com/marcelososa/javascript-style-guide)
+	    * [JSDoc](http://usejsdoc.org/): Add documentation comments to our code
+        * [EditorConfig](http://editorconfig.org/): EditorConfig helps developers define and maintain consistent coding styles between different editors and IDEs.
 
-    * [Topic 2: OOP and Inheritance in JavaScript](#topic-2-design-patterns-and-oop-in-javascript-3-days)
+    * [Topic 2: OOP and Inheritance in JavaScript](#topic-2-design-patterns-and-oop-in-javascript)
+        * [NPM](https://www.npmjs.com/): Node Package Manager
+	    * [AMP](http://requirejs.org/)
+	    * Template Engines: [Handlebars](http://handlebarsjs.com/), [Mustache](https://mustache.github.io/)
+	    * Building Systems: [Grunt](https://gruntjs.com), [Gulp](http://gulpjs.com/)
 
-    * [Topic 3: MVC - AngularJS](#topic-3-mvc---angularjs)
+    * [Topic 3: HTML5 APIs](#topic-3-html5-apis)
 
-    * [Topic 4: HTML5 APIs](#topic-4-html5-apis)
+    * [Topic 4: MVC - AngularJS](#topic-4-mvc---angularjs)
 
-    * [Topic 5 (Optional): UI - ReactJS](#topic-5-optional-ui---reactjs)
+    * [Topic 5: UI - ReactJS](#topic-5-ui---reactjs)
 
-
-12. [Your First Project Starts Now!](#bookmark=id.605681dc8138)
+12. [Your First Project Starts Now!](#your-first-project-starts-now)
 
 ### Objective
 
@@ -141,6 +149,10 @@ Here you will reach just your boot camp fellows for asking question sharing know
 ### Proposed Test Applications
 
 The test application will consist in a Last.fm client.
+
+### Environment Setup
+
+[TBD]
 
 ### Learning Days ###
 
@@ -325,7 +337,43 @@ Commit your practice code.
 
 → [index](#index)
 
-#### Topic 3: MVC - AngularJS ####
+#### Topic 3: HTML5 APIs ####
+
+##### Reading: #####
+
+1. Take a glimpse into HTML5 APIs: [http://www.html5rocks.com/en/](http://www.html5rocks.com/en/)
+
+2. Now, take a deep dive into HTML5: [http://diveintohtml5.info/](http://diveintohtml5.info/) (optional)
+
+3. Understand the capabilities the Web has to offer right now [https://whatwebcando.today/](https://whatwebcando.today/)
+
+##### Practice: #####
+
+1. Create a page with a textarea and a save button. Save textarea content's when the user clicks on save. Use both localStorage and IndexedDB.
+
+2. Add a clear button to erase saved content.
+
+3. Add drag and drop support to load text files.
+
+4. Open a web socket and test it against [this echo service](http://www.websocket.org/echo.html).
+
+5. Create a web page with a canvas element. Upon page load draw basic geometric figures with random colors and strokes.
+
+6. Using the Canvas API animate a rectangle's position on the screen. Make sure not to use setTimeout but requestTimeFrame to perform the animation.
+
+7. Create a web page with a SVG element to show a vector graphic. Make sure you understand when is better to use SVG instead of bitmaps, and viceversa.
+
+##### Key Points: #####
+
+1, 3, 4, 7
+
+##### Commit: #####
+
+Commit your practice code.
+
+→ [index](#index)
+
+#### Topic 4: MVC - AngularJS ####
 
 ##### Reading: #####
 
@@ -366,43 +414,7 @@ Commit your practice code.
 
 → [index](#index)
 
-#### Topic 4: HTML5 APIs ####
-
-##### Reading: #####
-
-1. Take a glimpse into HTML5 APIs: [http://www.html5rocks.com/en/](http://www.html5rocks.com/en/)
-
-2. Now, take a deep dive into HTML5: [http://diveintohtml5.info/](http://diveintohtml5.info/) (optional)
-
-3. Understand the capabilities the Web has to offer right now [https://whatwebcando.today/](https://whatwebcando.today/)
-
-##### Practice: #####
-
-1. Create a page with a textarea and a save button. Save textarea content's when the user clicks on save. Use both localStorage and IndexedDB.
-
-2. Add a clear button to erase saved content.
-
-3. Add drag and drop support to load text files.
-
-4. Open a web socket and test it against [this echo service](http://www.websocket.org/echo.html).
-
-5. Create a web page with a canvas element. Upon page load draw basic geometric figures with random colors and strokes.
-
-6. Using the Canvas API animate a rectangle's position on the screen. Make sure not to use setTimeout but requestTimeFrame to perform the animation.
-
-7. Create a web page with a SVG element to show a vector graphic. Make sure you understand when is better to use SVG instead of bitmaps, and viceversa.
-
-##### Key Points: #####
-
-1, 3, 4, 7
-
-##### Commit: #####
-
-Commit your practice code.
-
-→ [index](#index)
-
-#### Topic 5 (Optional): UI - ReactJS ####
+#### Topic 5: UI - ReactJS ####
 
 ##### Reading: #####
 
