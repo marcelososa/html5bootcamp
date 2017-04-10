@@ -494,6 +494,9 @@ You will commit your code to GitHub on a daily basis.
 
 Tutors will give you feedback at the end of each sprint by reviewing and commenting your committed code in GitHub. If possible tutors will give you even more frequent feedback, sometimes at the end of the day.
 
+### Final Project Details
+Please read [here!](FinalProject.md).
+
 → [index](#index)
 
 
