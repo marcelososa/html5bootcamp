@@ -23,13 +23,13 @@ Como usuario, quiero poder buscar un artista en spotify y ver sus álbumes y can
 
 5. Como usuario debo poder regresar a la página principal de mi aplicación en cualquier punto del flow.
 
-6. Como usuario quiero poder escuchar un fragmento de cada tema.
+6. Como usuario quiero poder escuchar un fragmento de cada tema (optional).
 
-7. Como usuario quiero poder ordenar el listado de temas por duración de los mismos.
+7. Como usuario quiero poder ordenar el listado de temas por duración de los mismos (optional).
 
 8. Como usuario, quiero poder refrescar la página con los resultados de mi búsqueda o el listado de álbumes o el listado de canciones, y quiero que se mantenga el estado.
 
-9. Como usuario, quiero poder marcar una canción como favorita y al refrescar el navegador, quiero seguir viendo cómo favoritas las mismas canciones.
+9. Como usuario, quiero poder marcar una canción como favorita y al refrescar el navegador, quiero seguir viendo cómo favoritas las mismas canciones (persistencia en el cliente / browser).
 
 10. Las canciones marcadas como favoritas deben aparecer en una sección en la página principal.
 
